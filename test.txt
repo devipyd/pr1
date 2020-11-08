@@ -1,0 +1,6 @@
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+vi test.txt
+
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
